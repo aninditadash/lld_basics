@@ -1,1 +1,3 @@
-# lld_basics
+# Low Level Design Basics 
+
+## Design Principles
